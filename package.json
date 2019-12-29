@@ -1,0 +1,21 @@
+{
+  "name": "code-trade",
+  "version": "1.0.0",
+  "description": "trade-platform",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmuchiri/code-trade.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmuchiri/code-trade/issues"
+  },
+  "homepage": "https://github.com/pmuchiri/code-trade#readme"
+}
